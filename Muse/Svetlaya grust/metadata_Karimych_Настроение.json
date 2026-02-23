@@ -1,0 +1,19 @@
+{
+    "sessionId": "2026-02-23_12-18_Karimych------------mp3_Светлая грусть_5262",
+    "date": "2026-02-23T12:18:39Z",
+    "track": {
+        "name": "Karimych-Настроение.mp3",
+        "duration": 148,
+        "filePath": ""
+    },
+    "category": "Светлая грусть",
+    "ratings": {
+        "intensity": 5,
+        "imageryVividness": 5,
+        "connectionSuccess": 5
+    },
+    "device": {
+        "phone": "SM-N960F",
+        "appVersion": "0.1.0"
+    }
+}
