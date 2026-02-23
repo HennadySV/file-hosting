@@ -1,0 +1,19 @@
+{
+    "sessionId": "2026-02-23_12-33_---------------mp3_Борьба/Преодоление_3483",
+    "date": "2026-02-23T12:33:53Z",
+    "track": {
+        "name": "Пьяные драконы.mp3",
+        "duration": 259,
+        "filePath": ""
+    },
+    "category": "Борьба/Преодоление",
+    "ratings": {
+        "intensity": 5,
+        "imageryVividness": 5,
+        "connectionSuccess": 5
+    },
+    "device": {
+        "phone": "SM-N960F",
+        "appVersion": "0.1.0"
+    }
+}

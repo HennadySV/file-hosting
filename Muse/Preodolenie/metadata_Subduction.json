@@ -1,0 +1,19 @@
+{
+    "sessionId": "2026-02-23_12-29_Subduction-mp3_Борьба/Преодоление_2773",
+    "date": "2026-02-23T12:29:12Z",
+    "track": {
+        "name": "Subduction.mp3",
+        "duration": 122,
+        "filePath": ""
+    },
+    "category": "Борьба/Преодоление",
+    "ratings": {
+        "intensity": 5,
+        "imageryVividness": 5,
+        "connectionSuccess": 5
+    },
+    "device": {
+        "phone": "SM-N960F",
+        "appVersion": "0.1.0"
+    }
+}
