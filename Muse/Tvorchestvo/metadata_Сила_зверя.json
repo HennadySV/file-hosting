@@ -1,0 +1,19 @@
+{
+    "sessionId": "2026-02-23_12-26_-----------mp3_Борьба/Преодоление_1647",
+    "date": "2026-02-23T12:26:35Z",
+    "track": {
+        "name": "Сила зверя.mp3",
+        "duration": 198,
+        "filePath": ""
+    },
+    "category": "Борьба/Преодоление",
+    "ratings": {
+        "intensity": 5,
+        "imageryVividness": 5,
+        "connectionSuccess": 5
+    },
+    "device": {
+        "phone": "SM-N960F",
+        "appVersion": "0.1.0"
+    }
+}
