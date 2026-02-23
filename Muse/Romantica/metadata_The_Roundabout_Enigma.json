@@ -1,0 +1,19 @@
+{
+    "sessionId": "2026-02-23_12-42_The-Roundabout-mp3_Романтика/Секс_6971",
+    "date": "2026-02-23T12:42:22Z",
+    "track": {
+        "name": "The Roundabout.mp3",
+        "duration": 218,
+        "filePath": ""
+    },
+    "category": "Романтика/Секс",
+    "ratings": {
+        "intensity": 5,
+        "imageryVividness": 5,
+        "connectionSuccess": 5
+    },
+    "device": {
+        "phone": "SM-N960F",
+        "appVersion": "0.1.0"
+    }
+}
